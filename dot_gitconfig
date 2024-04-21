@@ -3,3 +3,5 @@
 	email = 48520760+flor0@users.noreply.github.com
 [color]
 	ui = auto
+[init]
+	defaultBranch = main
